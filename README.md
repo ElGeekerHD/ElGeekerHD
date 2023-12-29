@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm ElGeeker</h1>
 <h3 align="center">A passionate frontend developer from France</h3>
 
-- 🔭 I’m currently #0969DA working on [WestraMC](https://westramc.fr/)
+- 🔭 I’m currently working on [WestraMC](https://westramc.fr/)
 
 - 🌱 I’m currently learning **Java, CSS, C, C++**
 
