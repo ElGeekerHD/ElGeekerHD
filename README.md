@@ -8,7 +8,7 @@
 - 📫 How to reach me **elgeekerhd@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-- My discord: **@elgeekerhd**
+-  My discord: **@elgeekerhd**
 <p align="left">
 </p>
 
